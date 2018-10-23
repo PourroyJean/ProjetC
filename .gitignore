@@ -36,6 +36,3 @@ Net_projetC/
 *.exe
 *.out
 *.app
-
-/Net_projetC/build/
-/Net_projetC/dist/
